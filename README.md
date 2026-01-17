@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @machina-geist
+- 👋 Hi, I’m @machinageist
 - 👀 I’m interested in audio DSP, music software, and AI
 - 🌱 I’m currently learning everything, I'm starting with minimal prior experience.
 - 💞️ I’m looking to collaborate on projects that help me learn.
