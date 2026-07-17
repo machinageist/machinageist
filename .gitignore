@@ -1,0 +1,12 @@
+.DS_Store
+*.env
+secrets.json
+*.log
+*.tmp
+node_modules/
+build/
+config/production.json
+*.txt
+!important.txt
+logs/**/*.log
+target/
