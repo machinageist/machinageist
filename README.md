@@ -1,16 +1,18 @@
-# Hi, I'm Jeff — infrastructure, Linux & networking
+# Hi, I'm Jeff — infrastructure technician: Linux, networking & virtualization
 
-I like systems with a clear reason to exist, and I like understanding them deeply enough
-to *operate* them: make the hidden state visible, then ship the smallest useful slice that
-survives real use. I'm moving into infrastructure and network operations — NOC, Linux
-systems, and data-center / cloud support — and I build the evidence for it in public.
+I'm an infrastructure-focused technical support candidate building a public portfolio
+around self-hosted Linux services, Proxmox virtualization, network troubleshooting, and
+security-operations fundamentals. I like systems with a clear reason to exist, and I like
+understanding them deeply enough to *operate* them: make the hidden state visible, then
+ship the smallest useful slice that survives real use.
 
 I run a real **three-node Proxmox cluster** at home and self-host my site on it: a Rust/Axum
 service behind Caddy and a Cloudflare Tunnel, publicly reachable with no open inbound ports.
 The lab is where I deploy, break, observe, and harden real services.
 
 - **Portfolio & write-ups:** https://machinageist.dev
-- **Currently:** studying CompTIA Network+ (N10-009); documenting my cluster's network + DNS.
+- **Currently:** building out Linux systems-administration labs and documenting my
+  cluster's network + DNS.
 - **Hands-on with:** Linux (Arch daily driver, Debian servers), Proxmox VE, systemd, Caddy,
   Cloudflare Tunnel, DNS, TCP/IP diagnostics, Rust.
 
@@ -48,14 +50,16 @@ difference. It's a place to deploy, break, observe, and harden real services.
 
 ## Currently learning / not yet claiming
 
-Security+ next, then Linux+ and Server+. Building toward measured backup/restore and HA testing
-on the cluster. Not claiming: production SRE/DevOps, HA operations, or offensive-security work.
+Deepening Linux systems administration and security-operations fundamentals through
+hands-on homelab work, building toward measured backup/restore and HA testing on the
+cluster. Not claiming: production SRE/DevOps, HA operations, or offensive-security work.
 
 ---
 
 ## Open to
 
-Infrastructure, Linux, NOC, and cloud-support roles — plus technical collaboration and a good
-conversation with people building serious things.
+Remote Linux / infrastructure support, systems administration, and NOC / data-center
+roles — plus technical collaboration and a good conversation with people building serious
+things.
 
 📬 [machinageist@proton.me](mailto:machinageist@proton.me)
