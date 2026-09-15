@@ -20,6 +20,8 @@ The lab is where I deploy, break, observe, and harden real services.
 
 ## Selected work
 
+**[Geistos](https://github.com/machinageist/geistos)** — an in-progress local-first Arch workstation layer around Hyprland and Quickshell. It provides a keyboard-first bar and cards, theme/wallpaper state, lifecycle controls, and a PostgreSQL bootstrap boundary for the separate Geist application suite. The project is intentionally described as ongoing: packaging, clean-machine installation, and broader application integration are not finished.
+
 **[mg-server](https://github.com/machinageist/mg-server)** — the Rust/Axum service that runs
 machinageist.dev. Custom security-header and rate-limit middleware, compile-time templates,
 self-hosted on a Proxmox Debian VM behind Caddy and a Cloudflare Tunnel.
@@ -45,6 +47,12 @@ Where curriculum becomes operational: Proxmox, Linux VMs, an Arch + Hyprland des
 DNS on a dedicated Pi, tunnels, reverse proxies, and enough moving parts to keep me honest. A
 cluster with VM mobility — not a high-availability cluster, and I'm explicit about the
 difference. It's a place to deploy, break, observe, and harden real services.
+
+---
+
+**Current study/build direction:** Linux systems administration, routing and switching, defensive security fundamentals, Rust tooling, and the Geistos workstation. I am building these through small homelab exercises, public technical notes, and software that I can run and inspect rather than treating a reading list as operational experience.
+
+**What I am not claiming:** production SRE/DevOps, high-availability operations, or offensive-security expertise. Geistos and the broader Rust/software work are active projects, not finished products.
 
 ---
 
